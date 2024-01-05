@@ -1,3 +1,3 @@
 #demo
 
-This is for learning purposes.
+This is for learning special purposes only!(;
